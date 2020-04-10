@@ -1,0 +1,1 @@
+select address, balance from terminals where balance <100 and type = 'ATM'
